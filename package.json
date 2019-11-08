@@ -18,6 +18,7 @@
     "eject": "react-scripts eject",
     "storybook": "start-storybook -p 9009 -s public",
     "build-storybook": "build-storybook -s public",
+    "build-storybook-static": "build-storybook -c .storybook",
     "chromatic": "CHROMATIC_APP_CODE=y8sw1rbwuzr chromatic"
   },
   "eslintConfig": {
